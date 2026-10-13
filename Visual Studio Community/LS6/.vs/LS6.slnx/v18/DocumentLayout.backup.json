@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Numa\\OneDrive - sluz\\Informatikmittelschule\\01 F\u00E4cher\\M122\\Visual Studio Community\\LS6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B12934-5A36-4280-99FC-4B2715FC256C}|LS6\\LS6.csproj|c:\\users\\numa\\onedrive - sluz\\informatikmittelschule\\01 f\u00E4cher\\m122\\visual studio community\\ls6\\ls6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B12934-5A36-4280-99FC-4B2715FC256C}|LS6\\LS6.csproj|solutionrelative:ls6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Numa\\OneDrive - sluz\\Informatikmittelschule\\01 F\u00E4cher\\M122\\Visual Studio Community\\LS6\\LS6\\Program.cs",
+              "RelativeDocumentMoniker": "LS6\\Program.cs",
+              "ToolTip": "C:\\Users\\Numa\\OneDrive - sluz\\Informatikmittelschule\\01 F\u00E4cher\\M122\\Visual Studio Community\\LS6\\LS6\\Program.cs",
+              "RelativeToolTip": "LS6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:09:19.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

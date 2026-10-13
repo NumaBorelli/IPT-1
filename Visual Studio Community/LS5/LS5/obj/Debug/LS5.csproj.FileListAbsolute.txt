@@ -1,0 +1,7 @@
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\M122\Visual Studio Community\LS5\LS5\bin\Debug\LS5.exe.config
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\M122\Visual Studio Community\LS5\LS5\bin\Debug\LS5.exe
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\M122\Visual Studio Community\LS5\LS5\bin\Debug\LS5.pdb
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\M122\Visual Studio Community\LS5\LS5\obj\Debug\LS5.csproj.AssemblyReference.cache
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\M122\Visual Studio Community\LS5\LS5\obj\Debug\LS5.csproj.CoreCompileInputs.cache
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\M122\Visual Studio Community\LS5\LS5\obj\Debug\LS5.exe
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\M122\Visual Studio Community\LS5\LS5\obj\Debug\LS5.pdb

@@ -1,0 +1,7 @@
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS6\LS6\obj\Debug\LS6.csproj.AssemblyReference.cache
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS6\LS6\obj\Debug\LS6.csproj.CoreCompileInputs.cache
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS6\LS6\bin\Debug\LS6.exe.config
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS6\LS6\bin\Debug\LS6.exe
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS6\LS6\bin\Debug\LS6.pdb
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS6\LS6\obj\Debug\LS6.exe
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS6\LS6\obj\Debug\LS6.pdb

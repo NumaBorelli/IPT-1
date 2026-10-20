@@ -10,14 +10,12 @@ namespace LS7
     {
         static void Main(string[] args)
         {
-            for (int i = 2; i <= 10; i += 2)
+            for (int i = 2; i <= 14; i += 2)
             {
-                Console.WriteLine("Regal nummer: " + i);
-
-                Console.ReadKey();
-
-
+                Console.WriteLine(i);
             }
+
+            Console.ReadKey();
         }
     }
 }

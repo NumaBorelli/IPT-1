@@ -10,12 +10,16 @@ namespace LS7
     {
         static void Main(string[] args)
         {
-            for (int i = 2; i <= 14; i += 2)
+            int countdown = 5; while
+                (countdown > 0)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(countdown);
+                --countdown;
+                if (countdown == 0)
+                {
+                    Console.WriteLine("Start");
+                }
             }
-
-            Console.ReadKey();
         }
     }
 }

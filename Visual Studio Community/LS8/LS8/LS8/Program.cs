@@ -43,7 +43,10 @@ namespace LS8
                 Console.WriteLine($"Etikett {i}");
             }
 
-
+            // Korrigierte Schleife
+            for (int i = 1; i <= menge; i++)
+            {
+                Console.WriteLine($"Etikett {i}");
 
             }
 

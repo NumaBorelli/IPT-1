@@ -37,6 +37,14 @@ namespace LS8
 
             Console.WriteLine($"Menge übernommen: {menge}");
 
+            // Bug-Auftrag: Fehlerhafte Schleife
+            for (int i = 1; i < menge; i++)
+            {
+                Console.WriteLine($"Etikett {i}");
+            }
+
+
+
             }
 
         }

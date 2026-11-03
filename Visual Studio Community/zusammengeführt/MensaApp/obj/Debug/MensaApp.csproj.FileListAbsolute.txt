@@ -5,3 +5,10 @@ C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visua
 C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt von LS5-LS8\MensaApp\obj\Debug\MensaApp.csproj.CoreCompileInputs.cache
 C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt von LS5-LS8\MensaApp\obj\Debug\MensaApp.exe
 C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt von LS5-LS8\MensaApp\obj\Debug\MensaApp.pdb
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt\MensaApp\bin\Debug\MensaApp.exe.config
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt\MensaApp\bin\Debug\MensaApp.exe
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt\MensaApp\bin\Debug\MensaApp.pdb
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt\MensaApp\obj\Debug\MensaApp.csproj.AssemblyReference.cache
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt\MensaApp\obj\Debug\MensaApp.csproj.CoreCompileInputs.cache
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt\MensaApp\obj\Debug\MensaApp.exe
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\zusammengeführt\MensaApp\obj\Debug\MensaApp.pdb

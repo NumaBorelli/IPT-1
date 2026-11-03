@@ -90,7 +90,7 @@ namespace MensaApp
 
             Console.ReadLine();
 
-            Console.ReadKey
+            Console.ReadKey();
         }
     }
 }

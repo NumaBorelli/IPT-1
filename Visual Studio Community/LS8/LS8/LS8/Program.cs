@@ -12,7 +12,7 @@ namespace LS8
         {
 
 
-            using System;
+          
 
             int menge = 4;
 

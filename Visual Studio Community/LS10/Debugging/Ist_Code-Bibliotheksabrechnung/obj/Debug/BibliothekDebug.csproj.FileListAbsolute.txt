@@ -1,0 +1,6 @@
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS10\Debugging\Ist_Code-Bibliotheksabrechnung\bin\Debug\BibliothekDebug.exe
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS10\Debugging\Ist_Code-Bibliotheksabrechnung\bin\Debug\BibliothekDebug.pdb
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS10\Debugging\Ist_Code-Bibliotheksabrechnung\obj\Debug\BibliothekDebug.csproj.AssemblyReference.cache
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS10\Debugging\Ist_Code-Bibliotheksabrechnung\obj\Debug\BibliothekDebug.csproj.CoreCompileInputs.cache
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS10\Debugging\Ist_Code-Bibliotheksabrechnung\obj\Debug\BibliothekDebug.exe
+C:\Users\Numa\OneDrive - sluz\Informatikmittelschule\01 Fächer\IPT 1\Repo\Visual Studio Community\LS10\Debugging\Ist_Code-Bibliotheksabrechnung\obj\Debug\BibliothekDebug.pdb

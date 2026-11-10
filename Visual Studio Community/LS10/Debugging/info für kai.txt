@@ -1,0 +1,3 @@
+im docx und pdf ist bei der Aufgabe, wo man den git commit deklarieren muss falsch. 
+
+richtig: 1ba35ef - ls10 abgeschlossen

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampusKontrollzentrum", "CampusKontrollzentrum.csproj", "{A3973552-2B4B-4E75-A9EE-43038761DE01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3973552-2B4B-4E75-A9EE-43038761DE01}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{A3973552-2B4B-4E75-A9EE-43038761DE01}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{A3973552-2B4B-4E75-A9EE-43038761DE01}.Release|Any CPU.ActiveCfg = Release|AnyCPU
+		{A3973552-2B4B-4E75-A9EE-43038761DE01}.Release|Any CPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
